@@ -1,0 +1,35 @@
+# -----------------------
+# UNIVERSAL PATCHES
+# -----------------------
+export-all-activities
+hide-adb-status
+hide-app-icon
+spoof-build-info
+hide-mock-location
+spoof-sim-country
+spoof-wi-fi-connection
+enable-android-debugging
+export-internal-data-documents-provider
+hex
+predictive-back-gesture
+override-certificate-pinning
+change-package-name
+remove-screen-capture-restriction
+remove-screenshot-restriction
+remove-share-targets
+enable-rom-signature-spoofing
+set-target-sdk-version-34
+change-version-code
+disable-pairip-license-check
+
+# -----------------------
+# SPOTIFY
+# -----------------------
+hide-create-button
+custom-theme
+unlock-premium
+spoof-client
+fix-facebook-login
+change-lyrics-provider
+sanitize-sharing-links
+fix-third-party-launchers-widgets
