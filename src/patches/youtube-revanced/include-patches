@@ -1,1 +1,84 @@
-Custom branding|-OappName="YouTube ReVanced"
+# -----------------------
+# UNIVERSAL PATCHES
+# -----------------------
+export-all-activities
+hide-adb-status
+hide-app-icon
+spoof-build-info
+hide-mock-location
+spoof-sim-country
+spoof-wi-fi-connection
+enable-android-debugging
+export-internal-data-documents-provider
+hex
+predictive-back-gesture
+override-certificate-pinning
+change-package-name
+remove-screen-capture-restriction
+remove-screenshot-restriction
+remove-share-targets
+enable-rom-signature-spoofing
+set-target-sdk-version-34
+change-version-code
+disable-pairip-license-check
+
+# -----------------------
+# YOUTUBE
+# -----------------------
+hide-ads
+video-ads
+copy-video-url
+remove-viewer-discretion-dialog
+disable-double-tap-actions
+downloads
+seekbar
+swipe-controls
+disable-auto-captions
+custom-branding
+change-header
+hide-video-action-buttons
+navigation-buttons
+hide-player-overlay-buttons
+change-form-factor
+hide-end-screen-cards
+hide-end-screen-suggested-video
+disable-fullscreen-ambient-mode
+hide-layout-components
+hide-info-cards
+hide-player-flyout-menu-items
+hide-related-video-overlay
+disable-rolling-number-animations
+hide-shorts-components
+hide-timestamp
+miniplayer
+disable-player-popup-panels
+exit-fullscreen-mode
+open-videos-fullscreen
+custom-player-overlay-opacity
+return-youtube-dislike
+wide-search-bar
+shorts-autoplay
+open-shorts-in-regular-player
+sponsorblock
+spoof-app-version
+change-start-page
+disable-resuming-shorts-on-startup
+theme
+alternative-thumbnails
+bypass-image-region-restrictions
+announcements
+always-repeat
+remove-background-playback-restrictions
+enable-debugging
+spoof-device-dimensions
+check-watch-history-domain-name-resolution
+gmscore-support
+disable-haptic-feedback
+bypass-url-redirects
+open-links-externally
+remove-tracking-query-parameter
+spoof-video-streams
+force-original-audio
+disable-hdr-video
+video-quality
+playback-speed
